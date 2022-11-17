@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Agustin</h1>
-<h3 align="center">A multi-language developer from Argentina</h3>
+<h3 align="center">A developer and student from Argentina</h3>
 
 - 🌐 I’m currently working on [Watones Network](https://discord.gg/watones)
 

@@ -2,6 +2,7 @@
 <h3 align="center">A developer and student from Argentina</h3>
 
 - 🌐 I’m currently working on [Watones Network](https://discord.gg/watones)
+- 🎓 University Of Central Florida
 
 <h3 align="left">Socials:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 - 🌐 I’m currently working on [Watones Network](https://discord.gg/watones)
 - 🎓 University Of Central Florida
 
-[![agus-marmor's GitHub stats](https://github-readme-stats.vercel.app/api?username=agus-marmor)]
+[![agus-marmor's GitHub stats](https://github-readme-stats.vercel.app/api?username=agus-marmor&show_icons=true&theme=dark)]
 
 <h3 align="left">Socials:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Agustin and I'm a future Embedded Software Developer from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Agustin and I'm a future Embedded Systems Developer from Argentina</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk2Nzc5NzAsIm5iZiI6MTczOTY3NzY3MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE2VDAzNDc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZmMwMjliMjE1NzNmOTZkY2U3OGRjODhiMGJiZWIzMmE0NDE3NjU4NTY2MmNhMzU5NDNmMDRmYWY1MTMzNDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QFqetwepZ1oYh0_r9nBPfL3jfNUt2JznTKmro1rW7UU"  />
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Agustin and I'm a future Embedded Systems Developer from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Agustin and I'm a future Embedded Systems Developer from Argentina studying at UCF</h2>
 
 ###
 
